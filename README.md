@@ -1,5 +1,7 @@
 # Tesla Stock Forecasting Project
 
+***Please either view the Jupyter notebook in Jupyter Lab or download the Tesla_LSTM.html file to explore the project.***
+
 ## Overview
 
 This repository contains notebooks and data for a project on forecasting Tesla (TSLA) stock prices using multi-step stacked LSTM neural networks. The project includes a single-step ahead production model using a single LSTM and a multi-stacked LSTM model that predicts multiple days (a month in business days) into the future.
@@ -24,6 +26,7 @@ This repository contains notebooks and data for a project on forecasting Tesla (
 - **LSTM_Tesla_model.h5:** Trained weights for the single-step ahead LSTM model.
 - **Multi_LSTM_Tesla_model.h5:** Trained weights for the multi-step stacked LSTM model.
 - **Tesla_LSTM.ipynb:** Jupyter notebook for the project, covering data exploration, model implementation, and analysis.
+- **Tesla_LSTM.html:** HTML file of the Jupyter notebook for project viewing with interactive plots.
 
 ## Dependencies
 
