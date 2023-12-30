@@ -1,6 +1,6 @@
 # Tesla Stock Forecasting Project
 
-***Please either view the Jupyter notebook in Jupyter Lab or download the Tesla_LSTM.html file to explore the project.***
+**Please either view the Jupyter notebook in Jupyter Lab or download the Tesla_LSTM.html file to explore the project.**
 
 ## Overview
 
