@@ -33,7 +33,7 @@ This repository contains notebooks and data for a project on forecasting Tesla (
 
 ## Dependencies
 
-- Python
+- Python: 3.11.5
 - Libraries:
   - yfinance 0.2.32
   - pandas 2.1.1
