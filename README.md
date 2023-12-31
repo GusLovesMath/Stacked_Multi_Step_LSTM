@@ -1,6 +1,6 @@
 # Tesla Stock Forecasting Project
 
-**Please either view the Jupyter notebook in Jupyter Lab or download the Tesla_LSTM.html file to explore the project. Or visit my Kaggle [Tesla Stock Forecasting | Multi-Step Stacked LSTM](https://www.kaggle.com/code/guslovesmath/tesla-stock-forecasting-multi-step-stacked-lstm)**
+**Please either view the Jupyter notebook in Jupyter Lab or download the Tesla_LSTM.html file to explore the project. Or view the project on my Kaggle: [Tesla Stock Forecasting | Multi-Step Stacked LSTM](https://www.kaggle.com/code/guslovesmath/tesla-stock-forecasting-multi-step-stacked-lstm)**
 
 ## Overview
 
