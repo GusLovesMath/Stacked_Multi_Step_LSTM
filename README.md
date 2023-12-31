@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains notebooks and data for a project on forecasting Tesla (TSLA) stock prices using multi-step stacked LSTM neural networks. The project includes a single-step ahead production model using a single LSTM and a multi-stacked LSTM model that predicts multiple days (a month in business days) into the future.
+This repository contains notebooks and data for a project on forecasting Tesla (TSLA) stock prices using multi-step stacked LSTM neural networks. The project includes a single-step ahead production model using a single LSTM and a multi-stacked LSTM model that predicts multiple days (a month in business days) into the future. The accompanying documentation provides an intuitive and mathematical background on LSTM networks, as well as insights into the use of stacked LSTMs and multistep forecasting for time series analysis.
 
 ## Data
 - Historical stock price data for Tesla (TSLA).
