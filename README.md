@@ -22,7 +22,7 @@ This repository contains notebooks and data for a project on forecasting Tesla (
 ## Files
 - **LSTM_Tesla_model.h5:** Trained weights for the single-step ahead LSTM model.
 - **Multi_LSTM_Tesla_model.h5:** Trained weights for the multi-step stacked LSTM model.
-- **Tesla_LSTM.ipynb:** Jupyter notebook for the project, covering data exploration, model implementation, and analysis.
+- **Tesla_LSTM.ipynb:** Jupyter notebook for the project, covering data exploration, model building and implementation, and analysis.
 - **Tesla_LSTM.html:** HTML file of the Jupyter notebook for project viewing with interactive plots.
 
 ## Dependencies
