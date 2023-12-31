@@ -1,35 +1,31 @@
 # Tesla Stock Forecasting Project
-
 **Please either view the Jupyter notebook in Jupyter Lab or download the Tesla_LSTM.html file to explore the project. Or view the project on my Kaggle: [Tesla Stock Forecasting | Multi-Step Stacked LSTM](https://www.kaggle.com/code/guslovesmath/tesla-stock-forecasting-multi-step-stacked-lstm)**
 
 ## Overview
-
 This repository contains notebooks and data for a project on forecasting Tesla (TSLA) stock prices using multi-step stacked LSTM neural networks. The project includes a single-step ahead production model using a single LSTM and a multi-stacked LSTM model that predicts multiple days (a month in business days) into the future. The accompanying documentation provides an intuitive and mathematical background on LSTM networks, as well as insights into the use of stacked LSTMs and multistep forecasting for time series analysis.
 
 ## Data
 - Historical stock price data for Tesla (TSLA).
 - Data includes daily closing prices, open, high, low, volume, dividends, and stock splits.
 
-## Notebooks
-
-1. **Single_Step_Ahead_Model.ipynb**
+## Models
+1. **LSTM Single Step Ahead Model**
    - Implements a single LSTM model for one-step ahead stock price forecasting.
    - Forecasting two weeks into the future (in business days).
    - Data preprocessing, model training, and evaluation.
 
-2. **Multi_Step_Stacked_LSTM_Model.ipynb**
+2. **Multi-Step Stacked LSTM Model**
    - Builds a multi-stacked LSTM model for forecasting multiple days into the future.
    - Maps n points to m points in the future (a month in business days).
    - In-depth analysis of model architecture, training process, and evaluation.
 
-## Model Files
+## Files
 - **LSTM_Tesla_model.h5:** Trained weights for the single-step ahead LSTM model.
 - **Multi_LSTM_Tesla_model.h5:** Trained weights for the multi-step stacked LSTM model.
 - **Tesla_LSTM.ipynb:** Jupyter notebook for the project, covering data exploration, model implementation, and analysis.
 - **Tesla_LSTM.html:** HTML file of the Jupyter notebook for project viewing with interactive plots.
 
 ## Dependencies
-
 - Python: 3.11.5
 - Libraries:
   - yfinance 0.2.32
