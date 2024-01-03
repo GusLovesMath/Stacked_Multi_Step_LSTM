@@ -1,5 +1,5 @@
 # Tesla Stock Forecasting Project
-**Please either view the Jupyter notebook in Jupyter Lab or download the Tesla_LSTM.html file to explore the project. Or view the project on my Kaggle: [Tesla Stock Forecasting | Multi-Step Stacked LSTM](https://www.kaggle.com/code/guslovesmath/tesla-stock-forecasting-multi-step-stacked-lstm)**
+**Please either view the Jupyter notebook in Jupyter Lab or download the Tesla_LSTM.html file to explore the project. This is due to the implementation of interactive plots. Alternatively, you can view the project on my Kaggle page: [Tesla Stock Forecasting | Multi-Step Stacked LSTM](https://www.kaggle.com/code/guslovesmath/tesla-stock-forecasting-multi-step-stacked-lstm)**.
 
 ## Overview
 This repository contains notebooks and data for a project on forecasting Tesla (TSLA) stock prices using multi-step stacked LSTM neural networks. The project includes a single-step ahead production model using a single LSTM and a multi-stacked LSTM model that predicts multiple days (a month in business days) into the future. The accompanying documentation provides an intuitive and mathematical background on LSTM networks, as well as insights into the use of stacked LSTMs and multistep forecasting for time series analysis.
